@@ -1,7 +1,7 @@
 ## iplT20 Web App
 
 - stats till 2016
-- https://akhileshwarr.github.io/ipl/
+- https://akhileshwarr.github.io/iplT20/
 
 ### How to start running
 Run these commands
